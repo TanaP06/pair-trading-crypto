@@ -8,7 +8,16 @@ ratio, and executes a rule-based trading strategy to evaluate performance.
 
 ---
 
+## Executive Summary (PDF)
+
+A concise overview of the project methodology and results.
+
+- [Pair Trading Strategy – Executive Summary (PDF)](A_Pair_Trading_Strategy_for_Cryptocurrencies.pdf)
+
+
 ## Project Objectives
+
+---
 
 - Identify statistically cointegrated asset pairs
 - Construct a mean-reverting trading signal
