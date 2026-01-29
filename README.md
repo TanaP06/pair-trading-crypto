@@ -12,7 +12,7 @@ ratio, and executes a rule-based trading strategy to evaluate performance.
 
 A concise overview of the project methodology and result.
 
-- [Pair Trading Strategy – Executive Summary (PDF)](A_Pair_Trading_Strategy_for_Cryptocurrencies.pdf)
+- [Pair Trading Strategy – Executive Summary (PDF)](A_Pair_Trading_Strategy.pdf)
 
 
 ## Project Objectives
