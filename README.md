@@ -1,4 +1,4 @@
-# Pair Trading Strategy using Cointegration
+# A Pair Trading Strategy in Cryptocurrency Market
 
 This project implements a **statistical arbitrage (pair trading) strategy** based on
 cointegration testing and z-score signals.
@@ -54,10 +54,10 @@ A concise overview of the project methodology and result.
 
 ## Tech Stack
 
-- Python 3
+- Python 
 - NumPy
 - Pandas
-- SciPy
+- requests
 - Statsmodels
-- Scikit-learn
+- seaborn
 - Matplotlib
