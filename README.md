@@ -61,3 +61,5 @@ A concise overview of the project methodology and result.
 - Statsmodels
 - seaborn
 - Matplotlib
+
+**Note:** The dataset used in the Executive Summary (PDF) differs from the dataset used in the source code.  
